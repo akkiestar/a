@@ -1,0 +1,4 @@
+tensorflow>=2.10
+torch>=1.12  # 重み変換時のみ必要
+numpy
+pandas
