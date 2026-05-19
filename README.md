@@ -1,6 +1,6 @@
 # FractalDB-10k ResNet-50 + ArcFace (TensorFlow)
 
-法務的に完全クリーンな FractalDB-10k 事前学習済み ResNet-50 を起点に、ArcFace で
+ FractalDB-10k 事前学習済み ResNet-50 を起点に、ArcFace で
 メトリック学習を行い、プロトタイプ + cos 類似度で 25 クラス分類するパイプライン。
 
 ## 前提
